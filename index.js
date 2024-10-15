@@ -24,7 +24,7 @@ searchBtn.addEventListener("click", (e) => {
         temprature.textContent = "weather Temprature :" + data.main.temp
         humidity.textContent = "weather Humidity :" + data.main.humidity
         pressure.textContent = "weather Pressure :" + data.main.pressure
-        country.textContent = "weather Country :" + data.sys.country
+        country.textContent = "Country :" + data.sys.country
         deg.textContent = "weather Deg :" + data.wind.deg
         speed.textContent = "weather Speed :" + data.wind.speed
     })
