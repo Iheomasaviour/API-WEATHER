@@ -1,0 +1,16 @@
+.search{
+    outline: none;
+    width: 300px;
+    padding: 5px 10px;
+   border: 2px solid blue;
+   border-radius: 10px;
+}
+
+.search-btn{
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    width: 100px;
+    background-color: blue;
+    color: white;
+}
